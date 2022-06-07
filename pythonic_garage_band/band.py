@@ -83,7 +83,7 @@ class Band(Musician):
 
     def __repr__(self):
         return self.name
-    
+
     def get_instrument(self):
         return self.members
 
